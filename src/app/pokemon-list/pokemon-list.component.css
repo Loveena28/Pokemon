@@ -1,5 +1,5 @@
 .pokemons-list-grid {
-  padding: 30px;
+  padding: 24px;
   height: calc(100vh - 64px - 48px);
   overflow-y: auto;
   /* Grid styles */
@@ -22,8 +22,8 @@
 
 .pokemon-card {
   padding: 10px;
-  height: 13rem;
-  width: 17rem;
+  width:17rem;
+  height: 10rem;
 }
 
 .type {

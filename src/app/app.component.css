@@ -13,7 +13,6 @@
 }
 
 mat-sidenav-content > mat-toolbar.isHandset {
-  /* Make sure the toolbar will stay on top of the content as it scrolls past. */
   z-index: 1;
 }
 
